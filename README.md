@@ -1,4 +1,6 @@
 # 融云CallLib Flutter 插件
+做出次分支的主要原因是修改 版本 version.config文件
+让其每次打包的时候会采用最新的rtc 5.10.0 版本
 
 <!-- 快速实现音视频通话 CallLib -->
 
